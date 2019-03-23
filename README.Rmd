@@ -1,0 +1,12 @@
+---
+title: "Website Source Code"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This repository contains source code for my website. 
+
+Thanks for Emily Zabor for the super helpful [tutorial](https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html) on getting this up and running!
