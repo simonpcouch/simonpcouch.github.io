@@ -1,0 +1,63 @@
+.navbar-default {
+  font-family: "Garamond", Times, serif;
+  background-color: white;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.navbar .navbar-brand {
+  font-size: 32px;
+  font-weight: 200;
+}
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #f7f6f4;
+}
+
+.navbar .navbar-nav {
+  font-size: 16px;
+}
+
+body {
+  background-color: #f7f6f4;
+}
+
+p {
+  font-size: 16px;
+  font-family: "Garamond", Times, serif;
+}
+
+h1 {
+  font-size: 32px;
+  font-family: "Garamond", Times, serif;
+  text-decoration: underline;
+  font-weight: bold;
+  color: #666666;
+}
+
+h2 {
+  font-size: 24px;
+  font-family: "Garamond", Times, serif;
+  text-decoration: underline;
+  font-weight: bold;
+  color: #666666;
+}
+
+h3 {
+  font-size: 18px;
+  font-family: "Garamond", Times, serif;
+  text-decoration: underline;
+  font-weight: bold;
+  color: #666666;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+img-circle {
+    border-radius: 50%;
+}
+
+
+

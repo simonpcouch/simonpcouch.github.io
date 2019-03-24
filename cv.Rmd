@@ -1,0 +1,94 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+### EDUCATION 
+**Reed College**  
+*Portland, Oregon* | *Expected Graduation May 2021*  
+•  B.A. in Mathematics with a Concentration in Statistics  
+•  Relevant Coursework: Statistics Practicum, Statistical Learning, Case Studies in Data Science, Probability and Statistics, Computer Science, Vector Calculus, Linear Algebra  
+
+\n
+
+### TECHNICAL EXPERIENCE  
+**Educational Technology Consultant** | *Reed College Technology Services*  
+*Portland, Oregon* | *December 2018 -- Present*  
+•	Collaborate with student and faculty researchers to efficiently and thoughtfully make use of data technologies to advance research goals  
+•	Implement expressive and reproducible R and Python programs to address analytical challenges
+
+**Researcher** | *Reed College Mathematics Department*  
+*Portland, Oregon* | *April 2018 -- Present*  
+•	Develop algorithms for differentially private non-parametric hypothesis testing  
+•	Write, optimize, test, and maintain large bodies of R code  
+•	Compose publication-quality manuscripts presenting findings thoughtfully and concisely  
+•	Collaborate on R and LaTeX code using Git and GitHub version control  
+
+**R Developer** | *Reed College Mathematics Department*   
+*Portland, Oregon* | *December 2017 -- Present*   
+•	Write, optimize, test, and maintain expressive, concise, and computationally efficient code to assist R users in real-world problem solving  
+•	Publish two open-source software packages, “gbfs” and “anyflights,” in the Comprehensive R Archive Network  
+
+**Analytics Intern** | *Kartini Clinic for Children & Families*  
+*Portland, Oregon* | *January 2018*  
+•	Analyzed, interpreted, and modeled financial and pharmacogenetic data  
+•	Conducted company-wide presentations to communicate notable findings  
+•	Advised future data collection strategies   
+
+\n
+
+### PUBLICATIONS  
+**Differentially Private Nonparametric Hypothesis Testing **| *Computer and Communications Security*  
+*London, United Kingdom* | *2019 (Submitted)*  
+**A Differentially Private Wilcoxon Signed-Rank Test** | *arXiv*    
+*Online* | *2018*  
+
+\n
+
+### SKILLS  
+**R** *(Advanced)* | **Python** *(Intermediate)* | **Git & GitHub** *(Intermediate)* | **LaTeX** *(Intermediate)* | **SQL** *(Basic)*   
+
+\n
+
+### ADDITIONAL EXPERIENCE  
+**House Adviser** | *Reed College Residence Life *  
+*Portland, Oregon* | *August 2018 -- Present*  
+•	Build inclusive and active community for twelve residents through intentional engagement, proactive conflict resolution, individual counseling, resource referrals, and mentoring  
+•	Coordinate and document 4 thoughtful dorm floor events per semester  
+•	Document room inventories, event outcomes, advising sessions, and other administrative tasks  
+
+**Peer Career Adviser** | *Reed College Center for Life Beyond Reed*  
+*Portland, Oregon* | *August 2018 -- Present*  
+•	Advise students one-on-one on various professional development pursuits  
+•	Coordinate in-residence workshops and information sessions   
+
+\n
+
+### HONORS & AWARDS    
+**1st Place---Undergraduate Statistics Research Project Competition** | *American Statistical Association*  
+*International* | *March 2019*  
+A competition aiming to recognize research completed by undergraduates with exceptional significance, originality, and clarity of presentation, the first prize for which was awarded to “A Differentially Private Wilcoxon Signed-Rank Test”
+
+**Honorable Mention---Undergraduate Statistics Class Project Competition** | *American Statistical Association*  
+*International* | *March 2019*  
+A competition centered on recognizing exceptional research completed as a class project for an undergraduate statistics course, judged on accuracy of analysis, clarity of presentation, originality, and practical significance. “A Geospatial Study of Bikeshare Station Locations,” a project aiming to quantify progress in bikeshare equity using machine learning methods, was awarded an honorable mention  
+
+**Commendation for Excellence** | *Reed College President’s Office*  
+*Portland, Oregon* | *May 2018*  
+Awarded to the top 5 percent of each class, based on school year GPA, annually  
+
+**All-State Academic Scholar** | *Lawrence Journal-World*  
+*De Soto, Kansas* | *June 2017*  
+An honor “meant to recognize the most promising high school senior [in Kansas]... based on their strong academics, extracurricular involvement,  and essays"  
+
+\n
+
+### PRESENTATIONS  
+**Private Hypothesis Testing Using Rank-Based Methods** | *Theory and Practice of Differential Privacy*  
+*Toronto, Canada* | *October 2018*    
+**A Differentially Private Wilcoxon Signed-Rank Test** | *Reed College Mathematics Colloquium*  
+*Portland, Oregon* | *September 2018*  
+**gbfs: Easily Interface with General Bikeshare Feed Specification Files** | *Case Studies in Data Science Colloquium*  
+*Portland, Oregon* | *May 2018*  
+
