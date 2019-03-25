@@ -3,16 +3,15 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-
-### EDUCATION 
+## Education
 **Reed College**  
 *Portland, Oregon* | *Expected Graduation May 2021*  
 •  B.A. in Mathematics with a Concentration in Statistics  
 •  Relevant Coursework: Statistics Practicum, Statistical Learning, Case Studies in Data Science, Probability and Statistics, Computer Science, Vector Calculus, Linear Algebra  
 
-\n
+<br>
 
-### TECHNICAL EXPERIENCE  
+## Technical Experience 
 **Educational Technology Consultant** | *Reed College Technology Services*  
 *Portland, Oregon* | *December 2018 -- Present*  
 •	Collaborate with student and faculty researchers to efficiently and thoughtfully make use of data technologies to advance research goals  
@@ -36,22 +35,22 @@
 •	Conducted company-wide presentations to communicate notable findings  
 •	Advised future data collection strategies   
 
-\n
+<br>
 
-### PUBLICATIONS  
+## Publications 
 **Differentially Private Nonparametric Hypothesis Testing **| *Computer and Communications Security*  
 *London, United Kingdom* | *2019 (Submitted)*  
 **A Differentially Private Wilcoxon Signed-Rank Test** | *arXiv*    
 *Online* | *2018*  
 
-\n
+<br>
 
-### SKILLS  
+## Skills 
 **R** *(Advanced)* | **Python** *(Intermediate)* | **Git & GitHub** *(Intermediate)* | **LaTeX** *(Intermediate)* | **SQL** *(Basic)*   
 
-\n
+<br>
 
-### ADDITIONAL EXPERIENCE  
+## Additional Experience  
 **House Adviser** | *Reed College Residence Life *  
 *Portland, Oregon* | *August 2018 -- Present*  
 •	Build inclusive and active community for twelve residents through intentional engagement, proactive conflict resolution, individual counseling, resource referrals, and mentoring  
@@ -63,9 +62,9 @@
 •	Advise students one-on-one on various professional development pursuits  
 •	Coordinate in-residence workshops and information sessions   
 
-\n
+<br>
 
-### HONORS & AWARDS    
+## Honors & Awards    
 **1st Place---Undergraduate Statistics Research Project Competition** | *American Statistical Association*  
 *International* | *March 2019*  
 A competition aiming to recognize research completed by undergraduates with exceptional significance, originality, and clarity of presentation, the first prize for which was awarded to “A Differentially Private Wilcoxon Signed-Rank Test”
@@ -82,9 +81,9 @@ Awarded to the top 5 percent of each class, based on school year GPA, annually
 *De Soto, Kansas* | *June 2017*  
 An honor “meant to recognize the most promising high school senior [in Kansas]... based on their strong academics, extracurricular involvement,  and essays"  
 
-\n
+<br>
 
-### PRESENTATIONS  
+## Presentations 
 **Private Hypothesis Testing Using Rank-Based Methods** | *Theory and Practice of Differential Privacy*  
 *Toronto, Canada* | *October 2018*    
 **A Differentially Private Wilcoxon Signed-Rank Test** | *Reed College Mathematics Colloquium*  
