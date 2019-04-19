@@ -40,7 +40,7 @@ title: "Simon P. Couch - CV"
 
 ## Publications 
 **Differentially Private Nonparametric Hypothesis Testing **| *Computer and Communications Security*  
-*London, United Kingdom* | *2019 (Submitted)*  
+*London, United Kingdom* | *2019*  
 **A Differentially Private Wilcoxon Signed-Rank Test** | *arXiv*    
 *Online* | *2018*  
 
