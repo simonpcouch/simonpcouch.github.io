@@ -6,6 +6,7 @@ title: "Simon P. Couch - Projects"
 
 # Projects
 
+
 ### Differentially Private Hypothesis Testing  
 
 *May 2018 -- Present*
@@ -19,7 +20,7 @@ title: "Simon P. Couch - Projects"
 
 *October 2018 -- Present*
 
-<img src="images/bikeshare.png" style="width:35%; border:1px solid; margin-right: 20px" align="left"> Beginning as a final class project for Statistical Learning (MATH 243) at Reed College in Fall 2018, this research project focuses on making use of machine learning methods to quantify progress in equity of bikeshare programs in the United States. Making use of [my R package gbfs](https://github.com/ds-civic-data/gbfs) to scrape latitude/longitudes of over 6000 bikeshare stations across the country and joining that data with census demographic data, the project hopes to determine the features of a community that are most salient in predicting the location of these bikeshare station docks. A preliminary report on this research was awarded an [honorable mention](https://www.causeweb.org/usproc/usclap/2018/fall/winners) in the ASA-sponsored "Undergraduate Statistics Class Project Competition." Source code for this project can be found [here](https://github.com/simonpcouch/bikeshare).
+<img src="images/bikeshare.png" style="width:35%; border:1px solid; margin-right: 20px" align="left"> Beginning as a final class project for Statistical Learning (MATH 243) at Reed College in Fall 2018, this research project focuses on making use of machine learning methods to quantify progress in equity of bikeshare programs in the United States. Making use of [my R package gbfs](https://github.com/ds-civic-data/gbfs) to scrape latitude/longitudes of over 6000 bikeshare stations across the country and joining that data with census demographic data, the project hopes to determine the features of a community that are most salient in predicting the location of these bikeshare station docks. A preliminary report on this research was awarded an [honorable mention](https://www.causeweb.org/usproc/usclap/2018/fall/winners) in the ASA-sponsored "Undergraduate Statistics Class Project Competition."
 
 <br>
 
@@ -32,6 +33,15 @@ title: "Simon P. Couch - Projects"
 <br>
 
 <br>
+
+<br>
+
+### An Alternative to Rank-Based College Exploration 
+
+*January 2019 -- May 2019*
+
+
+<img src="images/network_viz.png" style="width:35%; border:1px solid; margin-right: 20px" align="left"> This was a project completed for Statistics Practicum (MATH 343) at Reed College in Spring 2019 with [EJ Arce](https://github.com/ejarce) and [Alexander Moore](https://github.com/moorea1). In this work, we argued that newsmagazine college rankings like those provided by U.S. News are both unhelpful for prospective students and reinforce existing status obsession. As an alternative, we developed a data-centered tool that focuses on what makes a college similar to, not better than, another college. Data from IPEDS and the Mobility Report Card from the Equality of Opportunity Project were joined and provided to users in an R Shiny application that allows users to compare United States educational institutions through visualization, comparison of raw data, and model-based assessment of school similarity. That application is hosted live [here](https://shiny.reed.edu/s/users/couchs/colleges/), with source code and a copy of our final paper [here](https://github.com/simonpcouch/College-Exploration).
 
 <br>
 

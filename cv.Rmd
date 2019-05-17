@@ -18,9 +18,8 @@ title: "Simon P. Couch - CV"
 •	Collaborate with student and faculty researchers to efficiently and thoughtfully make use of data technologies to advance research goals  
 •	Implement expressive and reproducible R and Python programs to address analytical challenges
 
-**Researcher** | *Reed College Mathematics Department*  
-*Portland, Oregon* | *April 2018 -- Present*  
-•	Develop algorithms for differentially private non-parametric hypothesis testing  
+**Researcher** | *Differentially Private Hypothesis Testing Group*  
+*Portland, Oregon* | *April 2018 -- Present*   
 •	Write, optimize, test, and maintain large bodies of R code  
 •	Compose publication-quality manuscripts presenting findings thoughtfully and concisely  
 •	Collaborate on R and LaTeX code using Git and GitHub version control  
@@ -59,9 +58,9 @@ title: "Simon P. Couch - CV"
 •	Document room inventories, event outcomes, advising sessions, and other administrative tasks  
 
 **Peer Career Adviser** | *Reed College Center for Life Beyond Reed*  
-*Portland, Oregon* | *August 2018 -- Present*  
-•	Advise students one-on-one on various professional development pursuits  
-•	Coordinate in-residence workshops and information sessions   
+*Portland, Oregon* | *August 2018 -- May 2019*  
+•	Advised students one-on-one on various professional development pursuits  
+•	Coordinated in-residence workshops and information sessions   
 
 <br>
 
@@ -85,6 +84,8 @@ An honor “meant to recognize the most promising high school senior [in Kansas]
 <br>
 
 ## Presentations 
+**An Alternative to Rank-Based College Exploration** | *Statistics Practicum Colloquium*  
+*Portland, Oregon* | *May 2019*    
 **Private Hypothesis Testing Using Rank-Based Methods** | *Theory and Practice of Differential Privacy*  
 *Toronto, Canada* | *October 2018*    
 **A Differentially Private Wilcoxon Signed-Rank Test** | *Reed College Mathematics Colloquium*  
