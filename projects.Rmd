@@ -6,7 +6,6 @@ title: "Simon P. Couch - Projects"
 
 # Projects
 
-
 ### Differentially Private Hypothesis Testing  
 
 *May 2018 -- Present*
@@ -20,7 +19,7 @@ title: "Simon P. Couch - Projects"
 
 *October 2018 -- Present*
 
-<img src="images/bikeshare.png" style="width:33%; border:1px solid; margin-right: 20px" align="left"> Beginning as a final class project for Statistical Learning (MATH 243) at Reed College in Fall 2018, this research project focuses on making use of machine learning methods to quantify progress in equity of bikeshare programs in the United States. Making use of [my R package gbfs](https://github.com/ds-civic-data/gbfs) to scrape latitude/longitudes of over 6000 bikeshare stations across the country and joining that data with census demographic data, the project hopes to determine the features of a community that are most salient in predicting the location of these bikeshare station docks. A preliminary report on this research was awarded an [honorable mention](https://www.causeweb.org/usproc/usclap/2018/fall/winners) in the ASA-sponsored "Undergraduate Statistics Class Project Competition." A pre-print of further work on this project is currently in review, and a pre-print is available [here](https://arxiv.org/abs/1906.00129v1).
+<img src="images/bikeshare.png" style="width:33%; border:1px solid; margin-right: 20px" align="left"> Beginning as a final class project for Statistical Learning (MATH 243) at Reed College in Fall 2018, this research project focuses on making use of machine learning methods to quantify progress in equity of bikeshare programs in the United States. Making use of [my R package gbfs](https://github.com/ds-civic-data/gbfs) to scrape latitude/longitudes of over 6000 bikeshare stations across the country and joining that data with census demographic data, the project hopes to determine the features of a community that are most salient in predicting the location of these bikeshare station docks. A preliminary report on this research [tied for second place](https://www.causeweb.org/usproc/usresp/2019/spring/winners) in the ASA-sponsored "Undergraduate Statistics Research Competition." A pre-print of further work on this project is currently in review, and a pre-print is available [here](https://arxiv.org/abs/1906.00129v1).
 
 <br>
 
