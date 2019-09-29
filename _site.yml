@@ -14,6 +14,8 @@ navbar:
       href: http://github.com/simonpcouch
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/simonpcouch/
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/simonpcouch
 output:
   html_document:
     theme: paper
