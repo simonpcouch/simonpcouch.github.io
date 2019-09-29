@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -86,7 +87,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -247,18 +247,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -312,6 +300,12 @@ $(document).ready(function () {
      
   </a>
 </li>
+<li>
+  <a href="https://twitter.com/simonpcouch">
+    <span class="fa fa-twitter fa-lg"></span>
+     
+  </a>
+</li>
       </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
@@ -327,9 +321,9 @@ $(document).ready(function () {
 
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
-<p>Feel free to reach out to me at: <br></p>
-<p><a href="mailto:simonpatrickcouch@gmail.com" class="email">simonpatrickcouch@gmail.com</a> <br></p>
-<p>Or connect with me on GitHub or Linkedin (links in top right)!</p>
+<p>Feel free to reach out to me at: <a href="mailto:simonpatrickcouch@gmail.com" class="email">simonpatrickcouch@gmail.com</a> <br></p>
+<p>or connect with me on <a href="https://github.com/simonpcouch">GitHub</a>, <a href="https://twitter.com/simonpcouch">Twitter</a> or <a href="https://www.linkedin.com/in/simonpcouch/">LinkedIn</a> (links in top right, too)!</p>
+<p>I’m always glad to talk data science, statistics, and carrying more inclusive masculinities in these settings.</p>
 
 
 
@@ -348,6 +342,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
