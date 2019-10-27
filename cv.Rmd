@@ -30,9 +30,9 @@ title: "Simon P. Couch - CV"
 
 **Analytics Intern** | *John Deere*  
 *Olathe, Kansas* | *May 2019 -- August 2019*  
-•	Automated data integrity checks on enterprise customer datasets using R, SQL, Python, and Jupyter 
-•	Evaluated third-party data purchases for integrity and insight potential using Python and ArcGIS
-•	Constructed 9 Tableau dashboards combining insights from 4 surveys conducted across time, informing Deere’s roadmap to agricultural autonomy   
+•	Automated data integrity checks on enterprise customer datasets using R, SQL, Python, and Jupyter   
+•	Evaluated third-party data purchases for integrity and insight potential using Python and ArcGIS  
+•	Constructed 9 Tableau dashboards combining insights from 4 surveys conducted across time, informing Deere’s roadmap to agricultural autonomy     
 
 **Researcher** | *Heather Kitada Smalley Ph.D.*  
 *Portland, Oregon* | *November 2018 -- September 2019*   
@@ -85,7 +85,7 @@ title: "Simon P. Couch - CV"
 <br>
 
 ## Honors & Awards    
-**2st Place (tied)---Undergraduate Statistics Research Project Competition** | *American Statistical Association*  
+**2nd Place (tied)---Undergraduate Statistics Research Project Competition** | *American Statistical Association*  
 *International* | *September 2019*  
 A competition aiming to recognize research completed by undergraduates with exceptional significance, originality, and clarity of presentation, the first prize for which was awarded to “Encouraging Equitable Bikeshare: Implications of Docked and Dockless Models for Spatial Equity”
 
@@ -93,7 +93,7 @@ A competition aiming to recognize research completed by undergraduates with exce
 *Portland, Oregon* | *June 2018*, *June 2019*  
 Awarded to the top 5 percent of each class, based on school year GPA, annually 
 
-**1st Place---Undergraduate Statistics Research Project Competition** | *American Statistical Association*  
+**1st Place (tied)---Undergraduate Statistics Research Project Competition** | *American Statistical Association*  
 *International* | *March 2019*  
 A competition aiming to recognize research completed by undergraduates with exceptional significance, originality, and clarity of presentation, the first prize for which was awarded to “A Differentially Private Wilcoxon Signed-Rank Test”
 
