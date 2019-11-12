@@ -6,6 +6,6 @@ title: "Simon P. Couch - Home"
 
 <img src="images/simon.jpg" style="width:30%; border:3px solid; margin-right: 20px" align="left">
 
-I'm a junior at Reed College majoring in Mathematical Statistics and minoring in Sociology who cares about utilizing statistics and data science for social good. My research has focused on privacy-preserving data analysis as well as applying statistical methods to quantify progress in equity of bikeshare programs. I've also recently wrapped up an internship in analytics at John Deere. Currently, I maintain some R software packages, teach introductory statistics labs, and work as a consultant to researchers at Reed to effectively utilize R and other data tools in their projects. Source code for some of my projects (including this website) is available on GitHub @simonpcouch!
+I'm a junior at Reed College majoring in Mathematical Statistics and minoring in Sociology. I care about data science, statistics, and the thoughtful application of these practices in enabling and articulating social arguments. My research has focused on privacy-preserving data analysis as well as applying statistical methods to quantify progress in equity of bikeshare programs. I've also recently wrapped up an internship in analytics at John Deere. Currently, I maintain some R software packages, teach introductory statistics labs, and work as a consultant to researchers at Reed to effectively utilize R and other data tools in their projects. Source code for some of my projects (including this website) is available on GitHub @simonpcouch!
 
-I'm currently seeking internship opportunities for Summer 2020.
+I'm currently seeking research and internship opportunities for Summer 2020.

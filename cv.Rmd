@@ -8,7 +8,7 @@ title: "Simon P. Couch - CV"
 **Reed College**  
 *Portland, Oregon* | *Expected Graduation May 2021*  
 •  B.A. in Mathematics with a Concentration in Statistics, Minor in Sociology  
-•  Relevant Coursework: Probability, Statistics Practicum, Machine Learning, Data Science, Deep Learning, Vector Calculus, Linear Algebra, Gender & Work, Science & Social Difference
+•  Relevant Coursework: Probability, Statistics Practicum, Machine Learning, Data Science, Vector Calculus, Linear Algebra, Gender & Work, Science & Social Difference
 
 <br>
 
@@ -16,7 +16,7 @@ title: "Simon P. Couch - CV"
 
 **Data Science Consultant** | *Reed College Instructional Technology Services*  
 *Portland, Oregon* | *December 2018 -- Present*  
-•	Collaborate with student and faculty researchers to efficiently and thoughtfully make use of data technologies to advance research goals  
+•	Collaborate with student and faculty researchers to efficiently and thoughtfully make use of data technologies to advance research goals across fields as varied as economics, linguistics, sociology, and biology  
 •	Implement expressive and reproducible R and Python programs to address analytical challenges  
 
 **R Developer** | *Andrew Bray Ph.D.*  
@@ -26,7 +26,7 @@ title: "Simon P. Couch - CV"
 
 **Lab Assistant** | *Reed College Mathematics Department*  
 *Portland, Oregon* | *September 2019 -- Present*   
-•	Lead weekly lab sessions for two sets of 15 to 20 students in an introductory statistics course
+•	Lead weekly lab sessions for two sets of 15 to 20 students in an introductory statistics course  
 
 **Analytics Intern** | *John Deere*  
 *Olathe, Kansas* | *May 2019 -- August 2019*  
@@ -41,9 +41,8 @@ title: "Simon P. Couch - CV"
 
 **Researcher** | *Differential Privacy Group*  
 *Portland, Oregon* | *May 2018 -- July 2019*   
-•	Write, optimize, test, and maintain large bodies of R code  
-•	Compose publication-quality manuscripts presenting findings thoughtfully and concisely  
-•	Collaborate on R and LaTeX code using Git and GitHub version control 
+•	Write, optimize, test, and maintain large bodies of R code to carry out power analysis of differentially private hypothesis tests  
+•	Collaborate on R and LaTeX code using Git and GitHub version control  
 
 **Analytics Intern** | *Kartini Clinic for Children & Families*  
 *Portland, Oregon* | *January 2018*  
@@ -54,10 +53,10 @@ title: "Simon P. Couch - CV"
 <br>
 
 ## Publications 
-**Differentially Private Nonparametric Hypothesis Testing** *(2019)*  
+[**Differentially Private Nonparametric Hypothesis Testing** *(2019)*](https://dl.acm.org/citation.cfm?id=3319535.3339821)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   *ACM Conference on Computer and Communications Security* | *London, United Kingdom*     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Simon Couch**, Zeki Kazan, Kaiyan Shi, Andrew Bray, Adam Groce   
-**Encouraging Equitable Bikeshare: Implications of Docked and Dockless Models for Spatial Equity** *(2019)*     
+[**Encouraging Equitable Bikeshare: Implications of Docked and Dockless Models for Spatial Equity** *(2019)*](https://arxiv.org/abs/1906.00129)     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *arXiv Pre-print* | *In Review*   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  **Simon Couch**, Heather Kitada Smalley   
 
@@ -65,7 +64,7 @@ title: "Simon P. Couch - CV"
 <br>
 
 ## Skills 
-**R** *(Advanced)* | **Python** *(Intermediate)* | **ArcGIS** *(Intermediate)* | **Tableau** *(Intermediate)* | **SQL** *(Intermediate)* | **Git & GitHub** *(Intermediate)* | **LaTeX** *(Intermediate)*  | **CSS** *(Basic)* | **Jupyter** *(Basic)*  
+**R** *(Advanced)*  | **ArcGIS** *(Intermediate)* | **Tableau** *(Intermediate)* | **SQL** *(Intermediate)* | **Git & GitHub** *(Intermediate)* | **LaTeX** *(Intermediate)*  | **Python** *(Basic)* | **CSS** *(Basic)* | **Jupyter** *(Basic)*  
 
 <br>
 
@@ -75,7 +74,7 @@ title: "Simon P. Couch - CV"
 •	Build inclusive and active community for 15 to 20 residents through intentional engagement, proactive conflict resolution, individual counseling, resource referrals, and mentoring  
 •	Coordinate and document 4 thoughtful dorm floor events per semester  
 •	Document room inventories, event outcomes, advising sessions, and other administrative tasks  
-•	Advise two to three new House Advisers per year following appointment as House Adviser Mentor by peers and professional staff
+•	Advise two to three new House Advisers per year following appointment as House Adviser Mentor by peers and professional staff  
 
 **Peer Career Adviser** | *Reed College Center for Life Beyond Reed*  
 *Portland, Oregon* | *August 2018 -- May 2019*  
@@ -87,15 +86,15 @@ title: "Simon P. Couch - CV"
 ## Honors & Awards    
 **2nd Place (tied)---Undergraduate Statistics Research Project Competition** | *American Statistical Association*  
 *International* | *September 2019*  
-A competition aiming to recognize research completed by undergraduates with exceptional significance, originality, and clarity of presentation, the first prize for which was awarded to “Encouraging Equitable Bikeshare: Implications of Docked and Dockless Models for Spatial Equity”
+A competition aiming to recognize research completed by undergraduates with exceptional significance, originality, and clarity of presentation, the first prize for which was awarded to “Encouraging Equitable Bikeshare: Implications of Docked and Dockless Models for Spatial Equity”  
 
-**Commendation for Excellence** | *Reed College President’s Office*  
-*Portland, Oregon* | *June 2018*, *June 2019*  
-Awarded to the top 5 percent of each class, based on school year GPA, annually 
+**Commendation for Excellence** | *Reed College President’s Office*    
+*Portland, Oregon* | *June 2018*, *June 2019*    
+Awarded to the top 5 percent of each class, based on school year GPA, annually  
 
 **1st Place (tied)---Undergraduate Statistics Research Project Competition** | *American Statistical Association*  
 *International* | *March 2019*  
-A competition aiming to recognize research completed by undergraduates with exceptional significance, originality, and clarity of presentation, the first prize for which was awarded to “A Differentially Private Wilcoxon Signed-Rank Test”
+A competition aiming to recognize research completed by undergraduates with exceptional significance, originality, and clarity of presentation, the first prize for which was awarded to “A Differentially Private Wilcoxon Signed-Rank Test”  
 
 **Honorable Mention---Undergraduate Statistics Class Project Competition** | *American Statistical Association*  
 *International* | *March 2019*  
@@ -108,6 +107,8 @@ An honor “meant to recognize the most promising high school senior [in Kansas]
 <br>
 
 ## Presentations 
+**Encouraging Equitable Bikeshare** | *Electronic Undergraduate Statistics Research Conference*  
+*Online* | *November 2019*    
 **An Alternative to Rank-Based College Exploration** | *Statistics Practicum Colloquium*  
 *Portland, Oregon* | *May 2019*    
 **Private Hypothesis Testing Using Rank-Based Methods** | *Theory and Practice of Differential Privacy*  
