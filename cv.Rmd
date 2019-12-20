@@ -8,7 +8,7 @@ title: "Simon P. Couch - CV"
 **Reed College**  
 *Portland, Oregon* | *Expected Graduation May 2021*  
 •  B.A. in Mathematics with a Concentration in Statistics, Minor in Sociology  
-•  Relevant Coursework: Probability, Statistics Practicum, Machine Learning, Data Science, Vector Calculus, Linear Algebra, Gender & Work, Science & Social Difference
+•  Relevant Coursework: Statistics Practicum (MATH 343), Data Science (MATH 241), Machine Learning (MATH 243), Deep Learning (CSCI 378), Probability (MATH 391), Mathematical Statistics (MATH 392), Vector Calculus (MATH 202), Linear Algebra (MATH 201), Gender & Work (SOC 322), Science & Social Difference (SOC 326), Race & Racism (SOC 343)  
 
 <br>
 
