@@ -3,10 +3,6 @@ title: "(Old) Website Source Code"
 output: github_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 Hi there! I appreciate you coming by. :)
 
-I've transitioned my website over to [simonpcouch.com](simonpcouch.com)! Source code for _that_ website can be found [here](https://github.com/simonpcouch/simonpcouch.github.io).
+I've transitioned my website over to [simonpcouch.com](https://github.com/simonpcouch/website)! Source code for _that_ website can be found [here](https://github.com/simonpcouch/website).
