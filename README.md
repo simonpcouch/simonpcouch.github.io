@@ -1,9 +1,6 @@
-Website Source Code
+(Old) Website Source Code
 ================
 
-This repository contains source code for my personal
-[website](https://simonpcouch.github.io/).
+Hi there! I appreciate you coming by. :)
 
-Thanks for Emily Zabor for the super helpful
-[tutorial](https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html)
-on getting this up and running\!
+I've transitioned my website over to [simonpcouch.com](simonpcouch.com)\! Source code for that website can be found [here](https://github.com/simonpcouch/simonpcouch.github.io).
