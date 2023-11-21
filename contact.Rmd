@@ -1,9 +1,0 @@
----
-title: "Simon P. Couch - Contact"
----
-
-<link rel="stylesheet" href="styles.css" type="text/css">
-
-Hi there!
-
-I've transitioned this website over to [simonpcouch.com](simonpcouch.com). Come on by. :)
